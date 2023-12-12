@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @ZairDeLuque
-- 👀 I’m interested in learn to program based on public opinion.
-- 🌱 I’m currently learning to program in Visual Studio.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at idkzair@gmail.com
 
-<!---
-SoyNori/SoyNori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 😺 hello!
+
+`❤️ my name is:` Zair A.K.A. ZairDeLuque
+
+`🧠 studying:` Software Enginner
+
+`🧑‍💻 about me:` senior full stack developer but, open to learn new skills
+
+`🤔 reach me:` this is [my website](https://zairdeluque.carrd.co)
+
+#
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/629484116852867113?idleMessage=Probably%20sleeping...&hideTimestamp=true)](https://discord.com/users/629484116852867113)
